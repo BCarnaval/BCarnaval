@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Antoine</h1>
 <h3 align="center">Physics undergrad student who enjoys computer programming</h3>
 
-- 🔭 I’m currently working on [DynamicalVMC](https://github.com/BCarnaval/DynamicalVMC)
-
-- 🌱 I’m currently learning **C, C++**
-
-- 📫 How to reach me **antoinedelagrave@hotmail.com**
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   
