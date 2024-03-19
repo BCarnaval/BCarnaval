@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Antoine</h1>
 <h3 align="center">Physics undergrad student who enjoys computer programming</h3>
 
 <h3 align="left">Languages:</h3>
